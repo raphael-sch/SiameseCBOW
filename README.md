@@ -13,6 +13,8 @@ Siamese CBOW network architecture [1]
 
 
 [1] Kenter et al., 2016, Siamese CBOW: Optimizing Word Embeddings for Sentence Representations, https://arxiv.org/abs/1606.04640
+
 [2] Download Toronto BookCorpus, http://yknzhu.wixsite.com/mbweb
+
 [3] Zhu et al., 2015, Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books, https://arxiv.org/abs/1506.06724
 
