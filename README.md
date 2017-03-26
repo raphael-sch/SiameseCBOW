@@ -2,7 +2,11 @@
 This repository is a Python implementation of Siamese CBOW [1]. It is used to learn word embeddings optimized for sentence representation. Like word2vec the embeddings are learned by providing positive and negative context examples. The difference is, that these context examples are sentences and not single words, although a sentence is represented as the average of its word vectors.
 The implementation can easily be extended to support other input corpora than Toronto BookCorpus [2][3].
 
+----
+
 ![alt text](https://raw.githubusercontent.com/raphael-sch/SiameseCBOW/master/images/model.png "Diagram of the model")
+
+----
 
 Siamese CBOW network architecture [1]
 
