@@ -7,6 +7,7 @@ The implementation can easily be extended to support other input corpora than To
 ![alt text](https://raw.githubusercontent.com/raphael-sch/SiameseCBOW/master/images/model.png "Diagram of the model")
 
 ----
+
 Siamese CBOW network architecture [1]
 
 
